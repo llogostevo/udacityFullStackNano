@@ -1,5 +1,6 @@
 This is my attempt at the various projects outlined in the Udacity Full Stack Nanogree program
 
+#####################################################################
 
 ## Full Stack Web Developer Nanodegree (nd0044 v2)
 
